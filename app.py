@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 # --- CONFIGURATION ---
 # Set your desired backend password here
-BACKEND_PASSWORD = "hi"
+BACKEND_PASSWORD = "Z75zKQY2MMJZsgcagJM4"
 
 DEFAULT_MODEL = "llama-3.1-8b-instant" 
 VISION_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"  #this is the current vision gorq supported model. Any other vision 3.2 is depracated.
